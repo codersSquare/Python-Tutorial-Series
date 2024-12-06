@@ -25,5 +25,5 @@ For more information about Python programming, data structures, and algorithms, 
 Feel free to explore, learn, and contribute to make this repository a valuable resource for everyone interested in Python data structures and algorithms!
 
 <div align="center">
-  Made with ❤️ by [CODERS' SQUARE](https://github.com/codersSquare)
+  Made with ❤️ by [CODERS' SQUARE] (https://github.com/codersSquare)
 </div>
