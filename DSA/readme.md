@@ -40,7 +40,7 @@ In this repository, we explore various data structures and algorithms using Pyth
 9. [Linked List](https://github.com/Satyajit-Chaudhuri/Python-Tutorial-Series/blob/main/DSA/Linked_List_Advanced.ipynb)
 10. [Stack](https://github.com/Satyajit-Chaudhuri/Python-Tutorial-Series/blob/main/DSA/Stack_Advanced.ipynb)
 11. [Queue](https://github.com/Satyajit-Chaudhuri/Python-Tutorial-Series/blob/main/DSA/Queue_Advanced.ipynb)
-12. [Tree]((https://github.com/Satyajit-Chaudhuri/Python-Tutorial-Series/blob/main/DSA/Tree_Advanced.ipynb)
+12. [Tree](https://github.com/Satyajit-Chaudhuri/Python-Tutorial-Series/blob/main/DSA/Tree_Advanced.ipynb)
 13. [Binary Search Tree](https://github.com/Satyajit-Chaudhuri/Python-Tutorial-Series/blob/main/DSA/Binary_Search_Tree_Advanced.ipynb)
 14. [Heap](https://github.com/Satyajit-Chaudhuri/Python-Tutorial-Series/blob/main/DSA/Heap_Advanced.ipynb)
 15. [Graph](https://github.com/Satyajit-Chaudhuri/Python-Tutorial-Series/blob/main/DSA/Graph_Advanced.ipynb)
